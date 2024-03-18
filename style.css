@@ -1,0 +1,10 @@
+body {
+	background-color: beige;
+	font-family: sans-serif;
+	margin: 100px;
+}
+
+img {
+	border-color: black;
+	border-width: thick;
+}
